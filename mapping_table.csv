@@ -1,0 +1,90 @@
+column_name,original_value,mapped_value,is_total,sort_order,in_prisoners_in_australia,in_rogs_part_c_section_7_courts
+legal_status,sentenced in the last 12 months,sentenced in the last 12 months,,5,1,
+legal_status,sentenced,sentenced,,1,1,
+legal_status,all sentenced,sentenced,,1,1,
+legal_status,total,total,1,9999,1,
+legal_status,unsentenced,unsentenced,,2,1,
+legal_status,post-sentence,post-sentenced,,3,1,
+legal_status,other sentenced,other sentenced,,4,1,
+indigenous_status,aboriginal and torres strait islander,aboriginal and torres strait islander,,1,1,
+indigenous_status,aboriginal and torres strait islander people,aboriginal and torres strait islander,,1,1,
+indigenous_status,total,all persons,1,9999,1,
+indigenous_status,all persons,all persons,1,9999,1,
+indigenous_status,non-indigenous,non-indigenous,,2,1,
+indigenous_status,unknown,unknown,,3,1,
+indigenous_status,all people,all persons,1,9999,1,
+prior_imprisonment_status,total prisoners,total,1,9999,1,
+prior_imprisonment_status,total,total,1,9999,1,
+prior_imprisonment_status,prior imprisonment,prior imprisonment,,1,1,
+prior_imprisonment_status,no prior imprisonment,no prior imprisonment,,3,1,
+prior_imprisonment_status,first time imprisoned,first time imprisoned,,2,1,
+state,NSW,NSW,,1,1,
+state,Vic.,VIC,,2,1,
+state,VIC,VIC,,2,1,
+state,Qld.,QLD,,3,1,
+state,QLD,QLD,,3,1,
+state,SA,SA,,4,1,
+state,WA,WA,,5,1,
+state,Tas.,TAS,,6,1,
+state,TAS,TAS,,6,1,
+state,NT,NT,,7,1,
+state,ACT,ACT,,8,1,
+state,Aust.,AUS,1,9999,1,
+state,AUS,AUS,1,9999,1,
+sex,males,males,,1,1,
+sex,females,females,,2,1,
+sex,all persons,all persons,1,9999,1,
+offence_type,01 homicide and related offences,homicide and related offences,,1,1,
+offence_type,02 acts intended to cause injury,acts intended to cause injury,,2,1,
+offence_type,03 sexual assault and related offences,sexual assault and related offences,,3,1,
+offence_type,04 dangerous/negligent acts,dangerous/negligent acts,,4,1,
+offence_type,05 abduction/harassment ,abduction/harassment,,5,1,
+offence_type,06 robbery/extortion,robbery/extortion,,6,1,
+offence_type,07 unlawful entry with intent,unlawful entry with intent,,7,1,
+offence_type,08 theft,theft,,8,1,
+offence_type,09 fraud/deception,fraud/deception,,9,1,
+offence_type,10 illicit drug offences,illicit drug offences,,10,1,
+offence_type,11 weapons/explosives ,weapons/explosives,,11,1,
+offence_type,12 property damage and environmental pollution,property damage and environmental pollution,,12,1,
+offence_type,13 public order offences,public order offences,,13,1,
+offence_type,14 traffic and vehicle regulatory offences,traffic and vehicle regulatory offences,,14,1,
+offence_type,15 offences against justice,offences against justice,,15,1,
+offence_type,16 miscellaneous offences,miscellaneous offences,,16,1,
+offence_type,total,total,1,9999,1,
+offence_type,04 dangerous or negligent acts endangering persons,dangerous or negligent acts endangering persons,,4,1,
+offence_type,"05 abduction, harassment and other offences against the person","abduction, harassment and other offences against the person",,5,1,
+offence_type,"06 robbery, extortion and related offences","robbery, extortion and related offences",,6,1,
+offence_type,"07 unlawful entry with intent/burglary, break and enter","unlawful entry with intent/burglary, break and enter",,7,1,
+offence_type,08 theft and related offences,theft and related offences,,8,1,
+offence_type,"09 fraud, deception and related offences","fraud, deception and related offences",,9,1,
+offence_type,11 prohibited and regulated weapons and explosives offences,prohibited and regulated weapons and explosives offences,,11,1,
+offence_type,"15 offences against justice procedures, government security and government operations","offences against justice procedures, government security and government operations",,15,1,
+age,all persons,all persons,1,9999,1,
+court_jurisdiction,federal,federal,,1,,1
+court_jurisdiction,state,state,,2,,1
+court_jurisdiction,all,all,1,9999,,1
+court_level,all levels,all levels,1,9999,,1
+court_level,supreme,supreme,,2,,1
+court_level,district,district,,3,,1
+court_level,magistrates,magistrates,,4,,1
+court_level,federal,federal,,1,,1
+court_function,general,general,1,9999,,1
+court_function,non-children,non-children,,4,,1
+court_function,children,children,,3,,1
+court_function,non-probate,non-probate,,6,,1
+court_function,family,family,,1,,1
+court_function,non-family,non-family,,2,,1
+court_function,probate,probate,,5,,1
+law_domain,criminal,criminal,,1,,1
+law_domain,civil,civil,,2,,1
+law_domain,criminal and civil,criminal and civil,1,9999,,1
+matter_status,lodged,lodged,,1,,1
+matter_status,finalised,finalised,,2,,1
+matter_status,n/a,n/a,,9999,,1
+matter_type,total,total,1,9999,,1
+matter_type,appeal,appeal,,1,,1
+matter_type,non-appeal,non-appeal,,2,,1
+matter_type,deaths reported,deaths reported,,3,,1
+matter_type,fires reported,fires reported,,4,,1
+matter_type,n/a,n/a,,9999,,1
+sex,persons,all persons,1,9999,1,
